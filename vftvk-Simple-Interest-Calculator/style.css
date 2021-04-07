@@ -1,0 +1,14 @@
+body {
+    background-color:whitesmoke;
+    color: black;
+    font: arial;
+    width: 300px;
+    padding: 25px;
+    border-radius: 25px;
+    align-content: center;
+}
+h1 {
+    color:gray;
+}
+
+
